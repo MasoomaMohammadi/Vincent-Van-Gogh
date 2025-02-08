@@ -1,0 +1,29 @@
+@media (min-width: 425px){
+  .artist1 {
+     padding: 30px;
+  }
+  
+  .artist {
+    gap: 10px;
+  }
+
+  .imga {
+    width: 250px;
+    height: 200px;
+  }
+}
+
+@media (min-width: 320px){
+  .artist1 {
+     padding: 28px;
+  }
+  
+  .artist {
+    gap: 8px;
+  }
+
+  .imga {
+    width: 200px;
+    height: 200px;
+  }
+}

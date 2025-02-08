@@ -1,0 +1,43 @@
+@media (min-width: 425px){
+ .about {
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  gap: 80px;
+ }
+
+ .imgb {
+  width: 330px;
+  height: 330px;
+ }
+.tb {
+  font-size: 38px;
+}
+
+.hrb {
+  margin-right: 40px;
+}
+  
+}
+
+@media (min-width: 320px){
+ .about {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  gap: 70px;
+ }
+
+ .imgb {
+  width: 270px;
+  height: 270px;
+ }
+.tb {
+  font-size: 30px;
+}
+
+.hrb {
+  margin-right: 65px;
+}
+  
+}

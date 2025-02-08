@@ -1,0 +1,39 @@
+@media (min-width: 425px) {
+  .homec {
+    padding: 20px;
+  }
+
+  .header {
+    gap: 24px;
+  }
+
+  .home {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .imgh {
+    width: 330px;
+    height: 330px;
+  }
+}
+
+@media (min-width: 320px) {
+  .homec {
+    padding: 18px;
+  }
+
+  .header {
+    gap: 20px;
+  }
+
+  .home {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .imgh {
+    width: 300px;
+    height: 300px;
+  }
+}
