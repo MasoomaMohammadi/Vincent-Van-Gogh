@@ -16,6 +16,10 @@
     width: 330px;
     height: 330px;
   }
+
+  .h1h {
+    font-size: 40px;
+  }
 }
 
 @media (min-width: 320px) {
@@ -35,5 +39,9 @@
   .imgh {
     width: 320px;
     height: 320px;
+  }
+
+    .h1h {
+    font-size: 30px;
   }
 }

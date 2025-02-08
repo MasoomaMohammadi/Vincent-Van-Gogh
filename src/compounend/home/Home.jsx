@@ -31,7 +31,7 @@ function Home() {
         >
           <div className="mt-24">
             <p className="text-[#7a7777]">Who is Vincent Van Gogh?</p>
-            <h1 className="text-[#d4c1c1] text-5xl mt-2">He is a PAINTER 🎨</h1>
+            <h1 className="text-[#d4c1c1] h1h text-5xl mt-2">He is a PAINTER 🎨</h1>
             <div className="space-x-8">
               <button className="text-[#fff] bg-[#7a7777] mt-12 px-7 py-2 hover:scale-95 hover:text-[#f8dd71] decoration-[2000ms] transition-transform">
                 <a href="#about">Vincent</a>
