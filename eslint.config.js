@@ -40,6 +40,9 @@ export default [
 module.exports = {
   theme: {
     screens: {
+      // xs: '320px',
+      // xm: '370px',
+      // xsm: '425px',
       sm: "640px", // موبایل
       md: "768px", // تبلت
       lg: "1024px", // لپ‌تاپ

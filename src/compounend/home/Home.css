@@ -1,4 +1,4 @@
-/* @media (min-width: 425px) {
+@media (max-width: 425px) {
   .homec {
     padding: 20px;
   }
@@ -22,7 +22,7 @@
   }
 }
 
-@media (min-width: 320px) {
+@media (max-width: 320px) {
   .homec {
     padding: 18px;
   }
@@ -44,4 +44,4 @@
     .h1h {
     font-size: 30px;
   }
-} */
+}

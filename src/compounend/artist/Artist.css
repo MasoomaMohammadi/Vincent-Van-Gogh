@@ -1,4 +1,4 @@
-/* @media (min-width: 425px){
+@media (max-width: 425px){
   .artist1 {
      padding: 30px;
   }
@@ -13,7 +13,7 @@
   }
 }
 
-@media (min-width: 320px){
+@media (max-width: 320px){
   .artist1 {
      padding: 18px;
   }
@@ -26,4 +26,4 @@
     width: 200px;
     height: 200px;
   }
-} */
+}

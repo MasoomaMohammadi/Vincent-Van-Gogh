@@ -1,4 +1,4 @@
-/* @media (min-width: 425px){
+@media (max-width: 425px){
  .about {
   display: flex;
   flex-direction: column;
@@ -20,7 +20,7 @@
   
 }
 
-@media (min-width: 320px){
+@media (max-width: 320px){
  .about {
   display: flex;
   flex-direction: column;
@@ -40,4 +40,4 @@
   margin-right: 65px;
 }
   
-} */
+}

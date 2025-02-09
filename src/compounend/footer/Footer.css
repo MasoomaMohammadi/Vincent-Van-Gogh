@@ -1,4 +1,4 @@
-/* @media (min-width: 425px){
+@media (max-width: 425px){
   .h1f {
 font-size: 20px;
   }
@@ -8,4 +8,4 @@ font-size: 20px;
   .h1f {
 font-size: 15px;
   }
-} */
+}
