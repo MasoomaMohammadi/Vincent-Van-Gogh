@@ -95,7 +95,7 @@ function Artist() {
         <img
           src={vanImg[currentIndex].img}
           alt={`Image ${vanImg[currentIndex].id}`}
-          className="imga md:h-80 md:w-96 hover:scale-105 decoration-[2000ms] transition-transform rounded-sm"
+          className="imga sm:h-80 sm:w-96 md:h-80 md:w-96 lg:w-auto lg:h-auto hover:scale-105 decoration-[2000ms] transition-transform rounded-sm"
         />
         <img
           src={svgR}
