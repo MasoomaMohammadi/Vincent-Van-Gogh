@@ -21,14 +21,15 @@ function About() {
           </h1>
           <hr className="hrb my-5 mr-70 md:mr-58 lg:mr-50 text-[#938787]" />
           <p className="text-xl text-[#7a7777]">
-            Vincent van Gogh, a Dutch Post-Impressionist painter, was born on
-            March 30, 1853. He created iconic works like Starry Night and
-            Sunflowers using vibrant colors and bold brushstrokes. Van Gogh
-            struggled with severe mental health issues throughout his life and
-            created most of his works in the last two years of his life. He
-            passed away on July 29, 1890, at the age of 37 from a gunshot wound.
-            His works gained recognition after his death, and he is now
-            considered one of the most influential painters in art history.
+            Vincent van Gogh (1853–1890) was a Dutch Post-Impressionist painter
+            who had a profound impact on modern art. During his lifetime, he
+            created over 2,100 artworks, including 860 oil paintings. Some of
+            his most famous works include The Starry Night, Sunflowers, and The
+            Bedroom in Arles. Van Gogh's life was marked by poverty, mental
+            illness, and hardships. In his later years, he suffered from severe
+            depression and ultimately took his own life at the age of 37.
+            However, after his death, he became one of the most influential
+            artists in history.
           </p>
         </div>
       </div>
